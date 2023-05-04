@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently working on Android apps programming
+- 🌱 I’m currently learning Android jetpack compose & Material 3
+- 👯 I’m looking to collaborate on Android profile performance
+- 🤔 I’m looking for some design tools or systems (like Figma), to help with develop apps more effective
+- 💬 Ask me about Android frameworks
+- 📫 How to reach me: yazhanmu@live.cn
+- ⚡ Fun fact: Pick up an empty bottle while leave the bottle what I've carried
