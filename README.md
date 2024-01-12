@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **qomg/qomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  
+### Summary
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qomg&show_icons=true&theme=radical" height="185">
+</p>
+
+### Favorite
+<p align="center">
+  <a href="https://github.com/qomg/nowinandroid">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qomg&repo=nowinandroid&theme=vue-dark&hide_border=true" height="185">
+  </a>
+</p>
+
+### Languages and Frameworks
+<table >
+<tr>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+
+</tr>
+<tr>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+    </td>
+      <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    </td>
+</tr>
+</table>
 
 
 - 🔭 I’m currently working on Android apps programming
