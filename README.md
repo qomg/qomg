@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=qomg&show_icons=true&theme=radical" height="185">
 </p>
 
+### trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=qomg)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Favorite
 <p align="center">
   <a href="https://github.com/qomg/nowinandroid">
