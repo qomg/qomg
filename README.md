@@ -17,21 +17,8 @@ Here are some ideas to get you started:
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/qomg/qomg)
 
-  
-### Summary
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qomg&show_icons=true&theme=radical" height="185">
-</p>
-
 ### trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=qomg)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Favorite
-<p align="center">
-  <a href="https://github.com/qomg/compose-multiplatform-demo">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qomg&repo=compose-multiplatform-demo&theme=vue-dark&hide_border=true" height="185">
-  </a>
-</p>
 
 ### Languages and Frameworks
 <table >
@@ -74,3 +61,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android frameworks
 - 📫 How to reach me: yazhanmu@live.cn
 - ⚡ Fun fact: Pick up an empty bottle while leave the bottle what I've carried
+
+
+### Favorite
+<p align="center">
+  <a href="https://github.com/qomg/compose-multiplatform-demo">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qomg&repo=compose-multiplatform-demo&theme=vue-dark&hide_border=true" height="185">
+  </a>
+</p>
+
+### Summary
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qomg&show_icons=true&theme=radical" height="185">
+</p>
