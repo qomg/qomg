@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### Favorite
 <p align="center">
-  <a href="https://github.com/qomg/nowinandroid">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qomg&repo=nowinandroid&theme=vue-dark&hide_border=true" height="185">
+  <a href="https://github.com/qomg/compose-multiplatform-demo">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=qomg&repo=compose-multiplatform-demo&theme=vue-dark&hide_border=true" height="185">
   </a>
 </p>
 
