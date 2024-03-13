@@ -24,31 +24,30 @@ Here are some ideas to get you started:
 <table >
 <tr>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
     </td>
-
 </tr>
 <tr>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+    <td align='center' width="190"> 
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
     </td>
-      <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    <td align='center'  width="190">
+         <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
     </td>
 </tr>
 </table>
